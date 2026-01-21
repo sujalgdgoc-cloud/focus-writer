@@ -84,20 +84,7 @@ For questions, ideas, or collaboration opportunities, feel free to open an issue
 ## 🔗MVP Link
 
 We are offically working on the app and created a website for prototype right now 
-<a
-  href="https://focus-writer-eight.vercel.app?_vercel_share=zK7bMMvZrdnmAo7ooX5aehAEUSpU8AER"
-  target="_blank"
-  rel="noopener noreferrer"
-  style="
-    display: inline-block;
-    padding: 12px 20px;
-    background-color: #000;
-    color: #fff;
-    text-decoration: none;
-    border-radius: 6px;
-    font-weight: 600;
-  "
->
-  Open Focus Writer
+<a href="https://focus-writer-eight.vercel.app?_vercel_share=zK7bMMvZrdnmAo7ooX5aehAEUSpU8AER" target="_blank" rel="noopener noreferrer">
+  Visit Focus Writer
 </a>
 
